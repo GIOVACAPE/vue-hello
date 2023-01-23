@@ -4,6 +4,7 @@ const { createApp } = Vue
     data() {
       return {
         message: 'Hello Juan!' , 
+        img: 'img/foto.jpg'
     
       }
     }
